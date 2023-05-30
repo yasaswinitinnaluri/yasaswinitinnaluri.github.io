@@ -1,0 +1,9 @@
+h2 {
+    color: rgb(0, 255, 72);
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  th, td {
+    background-color:  rgb(112, 37, 49);
+  }
